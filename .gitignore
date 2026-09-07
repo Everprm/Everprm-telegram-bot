@@ -1,0 +1,19 @@
+warehouse-telegram-bot/
+│
+├── bot/
+│   ├── handlers/
+│   ├── keyboards/
+│   └── services/
+│
+├── backend/
+│   ├── api/
+│   ├── models/
+│   └── services/
+│
+├── database/
+│
+├── frontend/
+│
+├── docker-compose.yml
+│
+└── README.md
